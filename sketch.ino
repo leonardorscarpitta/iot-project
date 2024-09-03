@@ -60,7 +60,7 @@ void initMQTT() {
 }
 
 void setup() {
-  InitOutput();
+  initOutput();
   initSerial();
   initWiFi();
   initMQTT();
@@ -69,8 +69,8 @@ void setup() {
 }
 
 void loop() {
-  VerificaConexoesWiFIEMQTT();
-  EnviaEstadoOutputMQTT();
+  verifyMQTTWifiConnections();
+  sendMQTTOutputStatus();
   handleLuminosity();
   MQTT.loop();
 }
@@ -118,13 +118,13 @@ void mqtt_callback(char* topic, byte* payload, unsigned int length) {
   }
 }
 
-void VerificaConexoesWiFIEMQTT() {
+void verifyMQTTWifiConnections() {
   if (!MQTT.connected())
     reconnectMQTT();
   reconectWiFi();
 }
 
-void EnviaEstadoOutputMQTT() {
+void sendMQTTOutputStatus() {
   if (EstadoSaida == '1') {
     MQTT.publish(TOPICO_PUBLISH_1, "s|on");
     Serial.println("- Led Ligado");
@@ -138,7 +138,7 @@ void EnviaEstadoOutputMQTT() {
   delay(1000);
 }
 
-void InitOutput() {
+void initOutput() {
   pinMode(D4, OUTPUT);
   digitalWrite(D4, HIGH);
   boolean toggle = false;
