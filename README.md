@@ -23,3 +23,4 @@ Fabrício Carlos Duarte - RM 555017 <br>
 Leonardo Rocha Scarpitta - RM 555460 <br>
 Murilo Justi Rodrigues - RM 554512 <br>
 Renan Dias Utida - RM 558540
+Lucas
