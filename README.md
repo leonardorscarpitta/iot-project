@@ -79,10 +79,6 @@ Execute o script Python para visualizar os dados.
 
 ## Desenvolvedores do projeto:
 
-| **Nome** | **RM**                 | **LinkedIn** |
-|--------------------------------|------------------------|----------|
-| Fabricio Muniz                 | RM 555017              |  |
-| Gustavo Melanda da Nova        | RM 556081              | <a target="_blank" href="https://www.linkedin.com/in/gustavo-melanda-073181266/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQF4Xv6pD7M5vQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723431081627?e=1733961600&v=beta&t=Ux96lHAYwBZnCWfABuznIdH8VSWMCHM4CBJtmEpyQQ0" width="80"></a> |
-| Murilo Justi                   | RM 554512              | <a target="_blank" href="https://www.linkedin.com/in/murilo-justi-rodrigues-b336b22b7/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGnXBOl96aCtQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709252884484?e=1733961600&v=beta&t=_W2l37rEiTdk8HSG-GUrS4R_V6KddfAGj13CbkA_k0g" width="80"></a> |
-| Renan Dias Utida               | RM 558540              | <a target="_blank" href="https://www.linkedin.com/in/renan-dias-utida-1b1228225/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQHZyF9WkCRtDg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727923002401?e=1733961600&v=beta&t=foOm4Ar-LZJK6z8mu_ypyoXfkqYesw3MAc4acpeAqpU" width="80"></a> |
-| Leonardo Rocha Scarpitta       | RM 555460              | <a target="_blank" href="https://www.linkedin.com/in/leonardorscarpitta/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQG6zoS4UPTtQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718304566524?e=1733961600&v=beta&t=xK7Amp3IFfd7eoDSI7-OXn7roBt2p8ga5UgOeFtgWs4" width="80"></a> |
+| **Nome** | **LinkedIn** |
+|--------------------------------|----------|
+| Leonardo Rocha Scarpitta | <a target="_blank" href="https://www.linkedin.com/in/leonardorscarpitta/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQHR_5QfnjsucA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730232773856?e=1735776000&v=beta&t=pIoQzeU-aDlMuRKL7AnF8o8QL3JzEavYypxTVrNRuPg" width="80"></a> |
